@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/*.csv
+models/*.task
+models/*.joblib
+reports/*.json
+reports/*.txt
+reports/*.png
+.pytest_cache/
